@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class HypotenuseMathGUI {
+public class HypotenuseGUI {
     public void accept(){
     
         double x=Double.parseDouble(JOptionPane.showInputDialog("Enter a number : "));
