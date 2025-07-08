@@ -1,6 +1,6 @@
 import java.util.*;
 
-class array2d{
+class Array2d{
     int[][] marks= new int[2][2]; //declaration of an 2d array of 3*3 
     
     Scanner sc=new Scanner(System.in);
